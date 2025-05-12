@@ -33,3 +33,10 @@ The model is integrated into the platform via a Python-based API, allowing users
 2. Image is processed by the ML model.
 3. Model returns food name, origin, and ingredients.
 4. Platform displays detailed information and similar dishes.
+
+## 🌏 Target Users
+
+Domestic tourists
+International travelers
+Culinary enthusiasts
+Cultural researchers & educators
