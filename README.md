@@ -36,7 +36,7 @@ The model is integrated into the platform via a Python-based API, allowing users
 
 ## 🌏 Target Users
 
-Domestic tourists
-International travelers
-Culinary enthusiasts
-Cultural researchers & educators
+- Domestic tourists
+- International travelers
+- Culinary enthusiasts
+- Cultural researchers & educators
