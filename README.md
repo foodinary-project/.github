@@ -1,3 +1,5 @@
+<img src="banner.png">
+
 # 🍽️ Foodinary - Discover Indonesia's Culinary Heritage
 
 **Foodinary** is a web-based platform designed to promote and educate users about the rich diversity of Indonesian traditional cuisine. It provides comprehensive information about various regional dishes, their origins, ingredients, recipes, and taste profiles. The platform also features a Machine Learning-based food recognition tool that identifies dishes through images.
