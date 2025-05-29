@@ -1,4 +1,4 @@
-<img src="../banner.png">
+<img src="/banner.png">
 
 # 🍽️ Foodinary - Discover Indonesia's Culinary Heritage
 
@@ -14,15 +14,16 @@
 
 ## 🚀 Tech Stack
 
-- **Frontend**: 
-- **Backend**: 
+- **Frontend**:
+- **Backend**:
 - **Machine Learning**:
-- **Database**: 
-- **Deployment**: 
+- **Database**:
+- **Deployment**:
 
 ## 🧠 Machine Learning Model
 
 The ML model is trained to recognize various traditional Indonesian dishes from images. Each sample in the dataset includes:
+
 - Dish name
 - Regional origin
 - Main ingredients
