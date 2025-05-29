@@ -1,4 +1,4 @@
-<img src="/profile/banner.png">
+
 
 # 🍽️ Foodinary - Discover Indonesia's Culinary Heritage
 
