@@ -30,7 +30,7 @@ The ML model is trained to recognize various traditional Indonesian dishes from 
 
 The model is integrated into the platform via a Python-based API, allowing users to upload food photos for instant identification and further exploration.
 
-## 📸 Example Workflow
+## 📸 Workflow
 
 1. User uploads a food photo.
 2. Image is processed by the ML model.
